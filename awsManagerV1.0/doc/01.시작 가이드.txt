@@ -1,0 +1,8 @@
+﻿# 01.main class 
+# /aws/manager/main/MainApplication.class
+#
+# 02.개발 및 운영환경
+# 이클립스(Luna), javaFX, Spring, maven, java8 
+#
+# 03.라이브러리 
+# Spring-boot-starter 1.4.3, aws-java-sdk 1.11.140, amazon-kinesis-client 1.2.1
